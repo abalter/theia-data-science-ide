@@ -32,7 +32,7 @@ and development move forward at the sole command of the RStudio company.
 
 I propose developing a free, open-source, data science IDE that combines the best features of the existing commercial and open source options out there.
 
-[Chart below]().
+[Chart below](#feature-comparison-chart-proposed).
 
 ## The Good News
 We would not need to build a one-off project from the ground such as with [Spyder](https://www.spyder-ide.org/), [Jupyter Notebook](https://jupyter.org/), [Architect](https://www.getarchitect.io/), or [Rodeo](https://github.com/yhat/rodeo) (which was eventually abandoned; [see discussion](https://github.com/yhat/rodeo/issues/655#issuecomment-507076811)). Quite the opposite. _We would build on an existing framework and get professional support for our **own** development issues._
