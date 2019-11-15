@@ -4,7 +4,7 @@
 ## TL/DR
 I propose that "the community" use the [Theia](https://theia-ide.org/) framework to build an open-source IDE that combines the best of RStudio, Spyder, and Jupyter (etc.) into a data science IDE that is cloud/desktop agnostic _and_ language agnostic.
 
-## Stuff
+## Contents
   - [Introduction](#introduction)
   - [The Good News](#the-good-news)
   - [The Bad News](#the-bad-news)
