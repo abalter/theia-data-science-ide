@@ -69,12 +69,6 @@ Another common misconception is that Theia is a VS Code clone. This stems from t
 
 Other real life examples are [Microclimate](https://microclimate.dev/usingmicroclimate), potential [GitLab integration](https://gitlab.com/groups/gitlab-org/-/epics/1619), the new [Arduino Pro IDE](https://blog.arduino.cc/2019/10/18/arduino-pro-ide-alpha-preview-with-advanced-features/), [Hyperexponential's infrasturcture](https://webcache.googleusercontent.com/search?q=cache:KD4zb6vG_e8J:https://www.hyperexponential.com/jobs/typescript-engineer/+&cd=28&hl=en&ct=clnk&gl=us&client=firefox-b-1-d).
 
-
-
-
-[theia-activity]: theia-activity.png "Theia development activity on GitHub."
-
-
 ## Why not use Plugins?
 >Why not just use existing technology (Atom, VS Code, Theia, Jupyter) and build it out with plugins?
 
@@ -127,5 +121,6 @@ I have filled this table in to the best of my knowledge. I do not currenlty use 
 | Completely free and open source                                             | Yes                                                       | No      | Yes      | No                                   | Yes                                           | Yes             |
 
 
+[theia-activity]: https://raw.github.com/abalter/theia-data-science-ide/master/theia-activity.png "Theia development activity on GitHub."
 
 
